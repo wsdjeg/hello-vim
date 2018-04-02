@@ -1,2 +1,2 @@
-# hello-vim
-Vim 入门教程索引
+# Vim 学习教材
+
