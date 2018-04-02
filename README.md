@@ -1,8 +1,9 @@
 # Vim 从入门到精通
+
 > Vim from zero to hero
 
 - 本文链接：<https://github.com/vim-china/hello-vim>
-- 作者：wsdjeg & 贡献者
+- 作者：<https://github.com/vim-china/hello-vim/blob/master/authors.md>
 
 **转载请保留以上信息**
 
