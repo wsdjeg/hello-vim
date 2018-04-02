@@ -1,9 +1,10 @@
 # Vim 从入门到精通
-
 > Vim from zero to hero
 
 - 本文链接：<https://github.com/vim-china/hello-vim>
 - 作者：wsdjeg & 贡献者
+
+**转载请保留以上信息**
 
 Vim 的教程相对比较零散，系统的教程比较少，我也阅读过不少教程，走过很
 多弯路。借着 Vim-china 组织组建这一契机，整理下自己学习过的内容，
