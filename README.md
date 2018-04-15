@@ -2,8 +2,9 @@
 
 > Vim from zero to hero
 
-- 本文链接：<https://github.com/vim-china/hello-vim>
-- 作者：<https://github.com/vim-china/hello-vim/blob/master/authors.md>
+[![GitHub contributors](https://img.shields.io/github/contributors/vim-china/hello-vim.svg)](https://github.com/vim-china/hello-vim/graphs/contributors)
+[![Gitter](https://badges.gitter.im/vim-china/Lobby.svg)](https://gitter.im/vim-china/Lobby)
+
 
 **转载请保留以上信息**
 
@@ -20,7 +21,10 @@ Vim 的教程相对比较零散，系统的教程比较少，我也阅读过不�
 - [基本操作](#基本操作)
   - [移动命令](#移动命令)
   - [操作命令](#操作命令)
-
+    - [操作命令+移动命令](#操作命令移动命令)
+    - [操作命令二连击 = 行操作](#操作命令二连击--行操作)
+    - [可视模式下操作命令](#可视模式下操作命令)
+    - [更多常用命令](#更多常用命令)
 
 <!-- vim-markdown-toc -->
 
