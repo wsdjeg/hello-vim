@@ -5,12 +5,11 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/vim-china/hello-vim.svg)](https://github.com/vim-china/hello-vim/graphs/contributors)
 [![Gitter](https://badges.gitter.im/vim-china/Lobby.svg)](https://gitter.im/vim-china/Lobby)
 
-
 **转载请保留以上信息**
 
 Vim 的教程相对比较零散，系统的教程比较少，我也阅读过不少教程，走过很
 多弯路。借着 Vim-china 组织组建这一契机，整理下自己学习过的内容，
-分享给大家。
+分享给大家。如有任何问题，可以[提交issue进行讨论](https://github.com/vim-china/vim-china.github.io/issues/new).
 
 <!-- vim-markdown-toc GFM -->
 
