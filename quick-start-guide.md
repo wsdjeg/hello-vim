@@ -1,6 +1,5 @@
-# Vim 从入门到精通
+# Vim 入门教程
 
-> Vim from zero to hero
 
 [![GitHub contributors](https://img.shields.io/github/contributors/vim-china/hello-vim.svg)](https://github.com/vim-china/hello-vim/graphs/contributors)
 [![Gitter](https://badges.gitter.im/vim-china/Lobby.svg)](https://gitter.im/vim-china/Lobby)
@@ -272,9 +271,3 @@ Normal 模式下“一击即中”的常用命令则包括：
 |------|---------------------------------------------------------------------------------------------|---------|
 | `r`  | 替代字符，将当前字符替代为紧跟着输入的字符                                                  | replace |
 | `R`  | 进入替代模式，将当前及之后的字符都替代为紧跟着输入的字符串，直到按 `<Esc>` 返回 Normal 模式 | Replace |
-
-
-## 参考资料
-
-- [vim-galore 中文版](https://github.com/wsdjeg/vim-galore-zh_cn)
-- [vim 脚本学习指北](https://github.com/lymslive/vimllearn)
