@@ -3,7 +3,11 @@
 
 [![Gitter](https://badges.gitter.im/vim-china/Lobby.svg)](https://gitter.im/vim-china/Lobby)
 [![Telegram](https://img.shields.io/badge/chat-telegram-blue.svg)](https://t.me/VimHub)
-[![QQ](https://img.shields.io/badge/QQ%e7%be%a4-667379969-blue.svg)](https://jq.qq.com/?_wv=1027&k=5Ssk8CS)
 
 - [快速入门](quick-start-guide.md): 简单的 Vim 入门教程
 - [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)：Vim galore 中文翻译，构建 Vim 知识体系
+
+### 学习 Vim 脚本
+
+- [The Way of the VimL Wizard](https://github.com/dahu/LearnVimL)
+- [vim 脚本学习指北](https://github.com/lymslive/vimllearn)
