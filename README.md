@@ -6,6 +6,7 @@
 
 - [快速入门](quick-start-guide.md): 简单的 Vim 入门教程
 - [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)：Vim galore 中文翻译，构建 Vim 知识体系
+- [Vim 插件开发指南](https://github.com/wsdjeg/vim-plugin-dev-guide): Vim 脚本语法及插件开发指南
 
 ### 学习 Vim 脚本
 
