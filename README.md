@@ -12,6 +12,11 @@
 
 - [The Way of the VimL Wizard](https://github.com/dahu/LearnVimL)
 - [vim 脚本学习指北](https://github.com/lymslive/vimllearn)
+- Vim使用技术
+    - [技巧](http://www.ibm.com/developerworks/cn/linux/l-tip-vim1/) 
+    - [插件](http://www.ibm.com/developerworks/cn/linux/l-tip-vim2/)
+    - [定制](http://www.ibm.com/developerworks/cn/linux/l-tip-vim3/)
+    - [PDF 版本](http://wyw.dcweb.cn/download.asp?path=vim&file=VimArticle.pdf)
 
 ### 知乎上一些不错的 Vim 专栏
 
