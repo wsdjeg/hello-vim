@@ -5,11 +5,8 @@
 - [快速入门](quick-start-guide.md): 简单的 Vim 入门教程
 - [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)：Vim galore 中文翻译，构建 Vim 知识体系
 - [Vim 插件开发指南](https://github.com/wsdjeg/vim-plugin-dev-guide): Vim 脚本语法及插件开发指南
-
-### 学习 Vim 脚本
-
+- [vimcdoc](https://github.com/yianwillis/vimcdoc) Vim 中文帮助文档
 - [The Way of the VimL Wizard](https://github.com/dahu/LearnVimL)
-
 - [vim 脚本学习指北](https://github.com/lymslive/vimllearn/blob/master/content.md) - 作者：水龙
 
 书名叫“指北”而不是“指南”，主要是考虑有很多指南类 书籍讲 vim 这编辑器工具的使用，而本书则侧重于 VimL 这种脚本语言编程。
@@ -21,10 +18,16 @@
     - [定制](http://www.ibm.com/developerworks/cn/linux/l-tip-vim3/)
     - [PDF 版本](http://wyw.dcweb.cn/download.asp?path=vim&file=VimArticle.pdf)
 
-### 知乎上一些不错的 Vim 专栏
+- [Vim 插件中文帮助](https://github.com/vimcn) - 部分插件中文帮助文档
+
+
+### 知乎专栏
 
 - [Vim 学习笔记](https://zhuanlan.zhihu.com/learn-vim)
 > 虽然每篇文章篇幅比较小，但是还算是比较系统滴介绍 Vim 的使用，作者更新也比较稳定。
+
+- [Vim](https://zhuanlan.zhihu.com/vimrc)
+> 从想法到脚本实现的详细过程
 
 ---
 
