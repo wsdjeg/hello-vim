@@ -23,6 +23,7 @@
 
 - [Vim 插件中文帮助](https://github.com/vimcn) - 部分插件中文帮助文档
 
+[《Vim Practice》](https://github.com/oldratlee/vim-practice) - 李鼎(哲良), 一篇不错的 Vim 入门教程
 
 ### 知乎专栏
 
