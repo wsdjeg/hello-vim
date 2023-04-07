@@ -1,8 +1,7 @@
 # Vim 学习资源整理收集
 
-> 该仓库主要用于收集 Vim 相关的教程，并在此基础上做适当的补充
->
-> 如需添加内容，欢迎提交 Issue 或者 Pull Request。
+> Vim 的入门教程相对比较零散，简明的教程比较少，我也阅读过不少教程，走过很
+> 多弯路。整理下自己学习过的内容，分享给大家。如有任何问题，可以[提交issue进行讨论](https://github.com/wsdjeg/hello-vim/issues/new)。
 >
 > Vim 中文交流群：[t.me/vimzh_real](https://t.me/vimzh_real)
 
@@ -18,6 +17,7 @@
 
 - [快速入门](quick-start-guide.md): 简单的 Vim 入门教程
 - [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)：Vim galore 中文翻译，构建 Vim 知识体系
+- [Learn-Vim(The Smart Way) 中文翻译](https://github.com/wsdjeg/Learn-Vim_zh_cn)：翻译自[Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim)
 - [Vim 插件开发指南](https://github.com/wsdjeg/vim-plugin-dev-guide): Vim 脚本语法及插件开发指南
 - [vimcdoc](https://github.com/yianwillis/vimcdoc) Vim 中文帮助文档
 - [vim 脚本学习指北](https://github.com/lymslive/vimllearn/blob/master/content.md) - 作者：水龙
