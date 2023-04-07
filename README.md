@@ -27,7 +27,7 @@
   - [Vim 定制技巧](http://www.ibm.com/developerworks/cn/linux/l-tip-vim3/)
 - [Vim 插件中文帮助](https://github.com/vimcn) - 部分插件中文帮助文档
 - [《Vim Practice》](https://github.com/oldratlee/vim-practice) - 李鼎(哲良), 一篇不错的 Vim 入门教程
-- [《笨方法学习 VimScript》](https://huhuang03.gitbooks.io/learnvimscriptthehardway/content/)
+- [《笨方法学习 VimScript》](https://huhuang03.gitbooks.io/learnvimscriptthehardway/content/)：翻译自[Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
 
 ### 知乎专栏
 
