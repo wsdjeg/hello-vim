@@ -1,7 +1,7 @@
 # Vim 学习资源整理收集
 
 > Vim 的入门教程相对比较零散，简明的教程比较少，我也阅读过不少教程，走过很
-> 多弯路。整理下自己学习过的内容，分享给大家。如有任何问题，可以[提交issue进行讨论](https://github.com/wsdjeg/hello-vim/issues/new)。
+> 多弯路。整理下自己学习过的内容，分享给大家。如有任何问题，可以使用[Discussions](https://github.com/wsdjeg/hello-vim/discussions)进行讨论。
 
 <!-- vim-markdown-toc GFM -->
 
