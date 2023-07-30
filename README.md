@@ -1,6 +1,5 @@
 # Vim 中文论坛
 
-> 欢迎使用[Discussions](https://github.com/wsdjeg/hello-vim/discussions)进行讨论。
 
 <!-- vim-markdown-toc GFM -->
 
