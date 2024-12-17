@@ -1,5 +1,4 @@
-# Vim 中文论坛
-
+# Vim 入门资料整理
 
 <!-- vim-markdown-toc GFM -->
 
